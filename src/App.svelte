@@ -283,11 +283,9 @@
   </div>
 
   <h1>LAPD Face Search</h1>
-  <h2>Cops covering up their badges? ID them with their faces instead.</h2>
+  <h2>Have you been blessed with the privilege of encountering a member of the prestigious LAPD while on duty?</h2>
   <p>
-    Search over 9,000 LAPD headshots. Processing happens on your device. No
-    photos or data are transmitted or saved. Blurry, low-resolution photos will
-    not match.
+    Do you want to send more than just prayers to show your appreciation, but don’t know who to send them to? Not to worry because WeLoveLAPD.com empowers you to identify your hero so you can lavish them with gifts, praise and your commitment to unconditionally waive all your rights. LAPD members would love nothing more than to hear you concede that you really were making this difficult and that you unequivocally recognize that you forced their hand.
   </p>
 
   {#if !loaded}
